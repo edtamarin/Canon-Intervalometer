@@ -265,6 +265,18 @@
     (path "/3dcb1c41-c4c6-4f4e-893c-6da19846cf43/3cee90bf-054a-4580-945c-95a3f6ce4a1a"
       (reference "#PWR0123") (unit 1) (value "GND") (footprint "")
     )
+    (path "/0c902a43-b121-4fe4-bfa1-34ed8f238e77/008248bc-a3a1-49df-8e81-82f767d12483"
+      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/76614985-77bf-4b33-94c5-94a8e5c748f5/20c0d137-6550-4e14-8e25-8ed499dd6919"
+      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/3dcb1c41-c4c6-4f4e-893c-6da19846cf43/34637f49-0da2-4979-9dc3-71ab46554f2f"
+      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/76614985-77bf-4b33-94c5-94a8e5c748f5/44fe3afb-1c9a-46d5-8310-2d9db6eb3664/4784fc2d-5b39-4a80-a927-941d8fa95aed"
+      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
+    )
     (path "/0c902a43-b121-4fe4-bfa1-34ed8f238e77/434437aa-e4e0-44b7-8b34-1efb526fc88f"
       (reference "C1") (unit 1) (value "10u") (footprint "Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B_Pad1.50x2.35mm_HandSolder")
     )
@@ -324,6 +336,9 @@
     )
     (path "/3dcb1c41-c4c6-4f4e-893c-6da19846cf43/75fd2710-63b6-4811-b8ab-46ae4083572c"
       (reference "J5") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Connector_USB:USB_C_Receptacle_XKB_U262-16XN-4BVC11")
+    )
+    (path "/0c902a43-b121-4fe4-bfa1-34ed8f238e77/c0402d3c-8995-4a8f-a6a2-124a39df8636"
+      (reference "J6") (unit 1) (value "Switch") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
     )
     (path "/76614985-77bf-4b33-94c5-94a8e5c748f5/44fe3afb-1c9a-46d5-8310-2d9db6eb3664/7e48265c-802c-44ca-ba29-6fca3dd0ca2d"
       (reference "Q1") (unit 1) (value "DMN2056U") (footprint "Package_TO_SOT_SMD:SOT-23")
