@@ -346,24 +346,6 @@
     (path "/76614985-77bf-4b33-94c5-94a8e5c748f5/44fe3afb-1c9a-46d5-8310-2d9db6eb3664/b47866b0-312e-4fcb-84f3-8de00073c9ac"
       (reference "R3") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
-    (path "/76614985-77bf-4b33-94c5-94a8e5c748f5/44fe3afb-1c9a-46d5-8310-2d9db6eb3664/fcf8b6e5-5863-43ce-ac34-592826391313"
-      (reference "R4") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
-    )
-    (path "/76614985-77bf-4b33-94c5-94a8e5c748f5/44fe3afb-1c9a-46d5-8310-2d9db6eb3664/da24f5da-dbcd-473e-8819-ad8ecfb7cd4a"
-      (reference "R5") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
-    )
-    (path "/76614985-77bf-4b33-94c5-94a8e5c748f5/44fe3afb-1c9a-46d5-8310-2d9db6eb3664/2b000469-8e9e-4143-a1f1-e0ba40f2ddcd"
-      (reference "R6") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
-    )
-    (path "/76614985-77bf-4b33-94c5-94a8e5c748f5/44fe3afb-1c9a-46d5-8310-2d9db6eb3664/2527f1a4-4f2e-48eb-ad30-7451231de384"
-      (reference "R7") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
-    )
-    (path "/76614985-77bf-4b33-94c5-94a8e5c748f5/44fe3afb-1c9a-46d5-8310-2d9db6eb3664/0f4ca3c2-8dd2-4992-bf85-46aabcfe316d"
-      (reference "R8") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
-    )
-    (path "/76614985-77bf-4b33-94c5-94a8e5c748f5/44fe3afb-1c9a-46d5-8310-2d9db6eb3664/f2daa812-5323-4966-b147-8a9c9ba1c4dd"
-      (reference "R9") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
-    )
     (path "/76614985-77bf-4b33-94c5-94a8e5c748f5/d0fa10a1-5ce0-44de-9ed3-5fb42d353043"
       (reference "R10") (unit 1) (value "100") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
@@ -446,13 +428,7 @@
       (reference "S4") (unit 1) (value "4-1437565-2") (footprint "footprint:SW_4-1437565-2")
     )
     (path "/76614985-77bf-4b33-94c5-94a8e5c748f5/44fe3afb-1c9a-46d5-8310-2d9db6eb3664/dbe1cf3a-77c2-4b99-9184-428262e91ab4"
-      (reference "SW1") (unit 1) (value "RotaryEncoder_Switch") (footprint "footprint:PEC16")
-    )
-    (path "/76614985-77bf-4b33-94c5-94a8e5c748f5/44fe3afb-1c9a-46d5-8310-2d9db6eb3664/12b76457-852c-44a9-8203-fe3934309d40"
-      (reference "SW2") (unit 1) (value "RotaryEncoder_Switch") (footprint "footprint:PEC16")
-    )
-    (path "/76614985-77bf-4b33-94c5-94a8e5c748f5/44fe3afb-1c9a-46d5-8310-2d9db6eb3664/82b32e9d-ca92-4800-af44-78edfc735af9"
-      (reference "SW3") (unit 1) (value "RotaryEncoder_Switch") (footprint "footprint:PEC16")
+      (reference "SW1") (unit 1) (value "RotaryEncoder_Switch") (footprint "footprint:SIQ-02FVS3")
     )
     (path "/0c902a43-b121-4fe4-bfa1-34ed8f238e77/7455b0e6-9910-4918-b3ef-057c0c4608da"
       (reference "U1") (unit 1) (value "AZ1117-3.3") (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2")
