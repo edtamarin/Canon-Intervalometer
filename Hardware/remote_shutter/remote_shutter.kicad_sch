@@ -20,26 +20,14 @@
     )
   )
 
-  (sheet (at 83.82 107.95) (size 13.97 21.59) (fields_autoplaced)
+  (sheet (at 88.9 109.22) (size 13.97 21.59) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 255 229 191 1.0000))
     (uuid 3dcb1c41-c4c6-4f4e-893c-6da19846cf43)
-    (property "Sheet name" "Comms" (id 0) (at 83.82 107.2384 0)
+    (property "Sheet name" "Comms" (id 0) (at 88.9 108.5084 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheet file" "comms.kicad_sch" (id 1) (at 83.82 130.1246 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-  )
-
-  (sheet (at 170.18 111.76) (size 16.51 20.32) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
-    (fill (color 255 229 191 1.0000))
-    (uuid 3fcd1df3-7d81-48ad-8dea-5392cbaac6cf)
-    (property "Sheet name" "Controls" (id 0) (at 170.18 111.0484 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheet file" "controls.kicad_sch" (id 1) (at 170.18 132.6646 0)
+    (property "Sheet file" "comms.kicad_sch" (id 1) (at 88.9 131.3946 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
   )
@@ -75,12 +63,42 @@
   (sheet_instances
     (path "/" (page "1"))
     (path "/0c902a43-b121-4fe4-bfa1-34ed8f238e77" (page "2"))
-    (path "/3fcd1df3-7d81-48ad-8dea-5392cbaac6cf" (page "3"))
+    (path "/76614985-77bf-4b33-94c5-94a8e5c748f5/44fe3afb-1c9a-46d5-8310-2d9db6eb3664" (page "3"))
     (path "/76614985-77bf-4b33-94c5-94a8e5c748f5" (page "4"))
     (path "/3dcb1c41-c4c6-4f4e-893c-6da19846cf43" (page "5"))
   )
 
   (symbol_instances
+    (path "/76614985-77bf-4b33-94c5-94a8e5c748f5/44fe3afb-1c9a-46d5-8310-2d9db6eb3664/dd70d261-10ac-488f-88aa-dc27e0cb0046"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/76614985-77bf-4b33-94c5-94a8e5c748f5/44fe3afb-1c9a-46d5-8310-2d9db6eb3664/6b37076e-d8fd-4af0-ac80-0898d34aa122"
+      (reference "J?") (unit 1) (value "Conn_01x08_Male") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical")
+    )
+    (path "/76614985-77bf-4b33-94c5-94a8e5c748f5/44fe3afb-1c9a-46d5-8310-2d9db6eb3664/c2aaade8-f811-4bfa-9ad0-c176bfc17150"
+      (reference "J?") (unit 1) (value "AudioJack3") (footprint "")
+    )
+    (path "/76614985-77bf-4b33-94c5-94a8e5c748f5/44fe3afb-1c9a-46d5-8310-2d9db6eb3664/7e48265c-802c-44ca-ba29-6fca3dd0ca2d"
+      (reference "Q?") (unit 1) (value "DMN2056U") (footprint "Package_TO_SOT_SMD:SOT-23")
+    )
+    (path "/76614985-77bf-4b33-94c5-94a8e5c748f5/44fe3afb-1c9a-46d5-8310-2d9db6eb3664/a7e9f57e-b0ff-40b7-88d8-79023fc30b72"
+      (reference "Q?") (unit 1) (value "DMN2056U") (footprint "Package_TO_SOT_SMD:SOT-23")
+    )
+    (path "/76614985-77bf-4b33-94c5-94a8e5c748f5/44fe3afb-1c9a-46d5-8310-2d9db6eb3664/4835f8a5-e52e-4e3d-a197-0a9ab9c36525"
+      (reference "S?") (unit 1) (value "4-1437565-2") (footprint "SW_4-1437565-2")
+    )
+    (path "/76614985-77bf-4b33-94c5-94a8e5c748f5/44fe3afb-1c9a-46d5-8310-2d9db6eb3664/9446ca53-3d1a-4bf9-9cc7-851a4093e407"
+      (reference "S?") (unit 1) (value "4-1437565-2") (footprint "SW_4-1437565-2")
+    )
+    (path "/76614985-77bf-4b33-94c5-94a8e5c748f5/44fe3afb-1c9a-46d5-8310-2d9db6eb3664/69e45d6e-f735-4840-a3df-e1eb732484f9"
+      (reference "SW?") (unit 1) (value "RotaryEncoder_Switch") (footprint "")
+    )
+    (path "/76614985-77bf-4b33-94c5-94a8e5c748f5/44fe3afb-1c9a-46d5-8310-2d9db6eb3664/9ac12d0a-be28-4401-a1e6-93cd4ca8cf3d"
+      (reference "SW?") (unit 1) (value "RotaryEncoder_Switch") (footprint "")
+    )
+    (path "/76614985-77bf-4b33-94c5-94a8e5c748f5/44fe3afb-1c9a-46d5-8310-2d9db6eb3664/dbe1cf3a-77c2-4b99-9184-428262e91ab4"
+      (reference "SW?") (unit 1) (value "RotaryEncoder_Switch") (footprint "")
+    )
     (path "/3dcb1c41-c4c6-4f4e-893c-6da19846cf43/0a7f7c39-bd34-4869-bd34-fc026b206fdc"
       (reference "U?") (unit 1) (value "CP2102N-Axx-xQFN24") (footprint "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm")
     )
