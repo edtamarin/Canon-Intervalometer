@@ -295,6 +295,12 @@
     (path "/3dcb1c41-c4c6-4f4e-893c-6da19846cf43/8b795125-6471-436e-8179-1d75f658ead6"
       (reference "C10") (unit 1) (value "0u1") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
+    (path "/76614985-77bf-4b33-94c5-94a8e5c748f5/44fe3afb-1c9a-46d5-8310-2d9db6eb3664/eca7ceff-f233-47a0-bd08-ea3f4469281d"
+      (reference "C11") (unit 1) (value "0u1") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/76614985-77bf-4b33-94c5-94a8e5c748f5/44fe3afb-1c9a-46d5-8310-2d9db6eb3664/9b28390a-e403-4036-8a34-30a12218a820"
+      (reference "C12") (unit 1) (value "0u1") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
     (path "/76614985-77bf-4b33-94c5-94a8e5c748f5/85c70648-c4ef-4ddd-abc8-9b5e6a9cc71b"
       (reference "D1") (unit 1) (value "LED_Small") (footprint "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder")
     )
