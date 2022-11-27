@@ -1312,7 +1312,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid f52944d2-a95c-49db-a336-52d61b24d34f)
   )
-  (label "A3" (at 152.4 88.9 0)
+  (label "A2" (at 152.4 88.9 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid fc39f0a9-3b24-4086-b838-4b910d424f81)
   )
