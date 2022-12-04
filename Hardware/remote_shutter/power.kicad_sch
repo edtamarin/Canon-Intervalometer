@@ -994,7 +994,7 @@
     (uuid 7455b0e6-9910-4918-b3ef-057c0c4608da)
     (property "Reference" "U1" (id 0) (at 166.37 66.04 0))
     (property "Value" "AZ1117-3.3" (id 1) (at 166.37 68.58 0))
-    (property "Footprint" "" (id 2) (at 166.37 67.31 0)
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2" (id 2) (at 166.37 67.31 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "https://www.diodes.com/assets/Datasheets/AZ1117.pdf" (id 3) (at 166.37 73.66 0)
