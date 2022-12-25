@@ -414,6 +414,22 @@
     [
       "55a2bf67-86bc-4d7a-af85-f77a528905fc",
       ""
+    ],
+    [
+      "9e7ef289-37e5-4a16-b773-06ee1bf43b59",
+      "MCU"
+    ],
+    [
+      "ce06c881-39d8-404e-a7b7-db04c2dc8d8b",
+      "Power"
+    ],
+    [
+      "738a0264-0744-4c00-8495-f3b3e54a48f6",
+      "Comms"
+    ],
+    [
+      "f111fc91-c865-4fb4-8bdc-d28364e7c9a2",
+      "Interfaces"
     ]
   ],
   "text_variables": {}
