@@ -1,3 +1,5 @@
 (sym_lib_table
   (lib (name "rsc_sym")(type "KiCad")(uri "${KIPRJMOD}/rsc_sym.kicad_sym")(options "")(descr ""))
+  (lib (name "FDN335N")(type "KiCad")(uri "${KIPRJMOD}/lib/sym/FDN335N.kicad_sym")(options "")(descr ""))
+  (lib (name "FDN338P")(type "KiCad")(uri "${KIPRJMOD}/lib/sym/FDN338P.kicad_sym")(options "")(descr ""))
 )
