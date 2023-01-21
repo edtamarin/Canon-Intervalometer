@@ -889,12 +889,6 @@
     (path "/9e7ef289-37e5-4a16-b773-06ee1bf43b59/ffbe6e58-62ea-4343-8d65-71bc5c028c1f"
       (reference "#PWR012") (unit 1) (value "GND") (footprint "")
     )
-    (path "/9e7ef289-37e5-4a16-b773-06ee1bf43b59/13790531-80ea-43b4-a325-de03e40ab905"
-      (reference "#PWR013") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/9e7ef289-37e5-4a16-b773-06ee1bf43b59/dcd46fad-2529-4934-977e-187b3810b809"
-      (reference "#PWR014") (unit 1) (value "GND") (footprint "")
-    )
     (path "/9e7ef289-37e5-4a16-b773-06ee1bf43b59/b88a41fb-1e6e-4fa3-a9fb-165d3eac83a4"
       (reference "#PWR015") (unit 1) (value "GND") (footprint "")
     )
@@ -986,7 +980,7 @@
       (reference "#PWR044") (unit 1) (value "GND") (footprint "")
     )
     (path "/ce06c881-39d8-404e-a7b7-db04c2dc8d8b/09554fec-c76b-4dc1-bb39-e64e3d27c361"
-      (reference "BT1") (unit 1) (value "18650") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
+      (reference "BT1") (unit 1) (value "18650") (footprint "Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal")
     )
     (path "/9e7ef289-37e5-4a16-b773-06ee1bf43b59/4bd44f0b-dd02-441b-b917-c2033bcdb743"
       (reference "C1") (unit 1) (value "0u1") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
@@ -999,12 +993,6 @@
     )
     (path "/9e7ef289-37e5-4a16-b773-06ee1bf43b59/e58b6ce0-5c15-4d12-90a4-514ad65878d9"
       (reference "C4") (unit 1) (value "0u1") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
-    )
-    (path "/9e7ef289-37e5-4a16-b773-06ee1bf43b59/2c96a9e4-0b92-425b-9367-e2eb6fc62d02"
-      (reference "C5") (unit 1) (value "0u1") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
-    )
-    (path "/9e7ef289-37e5-4a16-b773-06ee1bf43b59/12feb033-a9c7-4e4e-b5d3-a6317546037c"
-      (reference "C6") (unit 1) (value "0u1") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/9e7ef289-37e5-4a16-b773-06ee1bf43b59/3c137c08-358a-4979-bc3b-c69f62cbe3fc"
       (reference "C7") (unit 1) (value "0u1") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
@@ -1170,12 +1158,6 @@
     )
     (path "/9e7ef289-37e5-4a16-b773-06ee1bf43b59/c945d432-83e6-48cc-9dbc-0fd3d626b7b5"
       (reference "S2") (unit 1) (value "4-1437565-2") (footprint "footprint:SW_4-1437565-2")
-    )
-    (path "/9e7ef289-37e5-4a16-b773-06ee1bf43b59/a65c1baa-3e28-4c70-a7a7-a98289b5bcce"
-      (reference "S3") (unit 1) (value "4-1437565-2") (footprint "footprint:SW_4-1437565-2")
-    )
-    (path "/9e7ef289-37e5-4a16-b773-06ee1bf43b59/fd1141a7-2890-4b5d-841c-85e584876d99"
-      (reference "S4") (unit 1) (value "4-1437565-2") (footprint "footprint:SW_4-1437565-2")
     )
     (path "/9e7ef289-37e5-4a16-b773-06ee1bf43b59/f111fc91-c865-4fb4-8bdc-d28364e7c9a2/3021c2de-fb32-488c-913c-8115015b2e93"
       (reference "SW1") (unit 1) (value "RotaryEncoder_Switch") (footprint "footprint:SIQ-02FVS3")
